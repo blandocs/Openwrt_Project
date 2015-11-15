@@ -1,0 +1,3 @@
+[submodule "compat-wireless"]
+	path = compat-wireless
+	url = https://github.com/zeronone/compat-wireless.git
